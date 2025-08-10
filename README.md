@@ -1,16 +1,16 @@
-# 📚 Library Management System (Java OOP)
+# Library Management System (Java OOP)
 
-## 📌 Overview
+##  Overview
 This is a simple **Library Management System** implemented in Java using **Object-Oriented Programming (OOP)** principles.  
 It allows adding books, adding users, issuing books, returning books, and displaying available books.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java
 - VS Code (or any Java IDE)
 - Terminal / Command Prompt
 
-## 📂 Project Structure
-```
+## Project Structure
+
 LibraryManagement/
  ├── Book.java        # Book class
  ├── User.java        # User class
@@ -18,15 +18,15 @@ LibraryManagement/
  └── Main.java        # Main execution file
 ```
 
-## 🚀 Features
+## Features
 - Add new books
 - Add new users
 - Issue books to users
 - Return books
 - View all books (Available / Issued status)
 
-## 📷 Example Output
-```
+##  Example Output
+
 Book added: The Alchemist by Paulo Coelho (Available)
 Book added: 1984 by George Orwell (Available)
 Book added: Java Programming by James Gosling (Available)
@@ -53,9 +53,7 @@ The Alchemist by Paulo Coelho (Available)
 Java Programming by James Gosling (Available)
 
 Book or User not found.
-```
-
-## 🏃 How to Run
+##  How to Run
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/your-username/LibraryManagementSystem.git
@@ -72,5 +70,5 @@ Book or User not found.
    java Main
    ```
 
-## 📜 License
+## License
 This project is open-source and free to use.
